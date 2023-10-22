@@ -1,0 +1,15 @@
+console.log("Digite o nome do herói")
+
+let nomeDoHeroi = "Arthur"
+console.log("Bem-vindo" + nomeDoHeroi)
+
+let Xp = 1 < 1000
+let forcaHeroi = ""
+
+if(Xp){
+    forcaHeroi = "Ferro"
+
+}
+
+
+console.log("O Herói de nome" + nomeDoHeroi + " Está no Nível" + forcaHeroi)
